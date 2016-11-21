@@ -6,7 +6,7 @@
 
 ## Description
 
-This contains a CSS layout practicing bootstrap features, specifically Bootstrap's grid system.
+This contains a CSS layout practicing bootstrap features, specifically Bootstrap's grid system
 
 ## Setup/Installation Requirements
 
